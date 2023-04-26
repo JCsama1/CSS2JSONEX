@@ -1,27 +1,23 @@
 {
-	"tasks": [{
+	"cars": [{
 			"id": 1,
-			"title": "Task 1",
-			"description": "Description for task 1",
-			"duration": "1 hr",
-			"date": "1st of Jan",
-			"time": "12.00"
+			"make": "Volvo",
+			"model": "XC40",
+			"price": "20000",
+			"fuelType": "Diesel",
+			"colour": "Grey",
+			"mileage": 55000,
+			"manual": true
 		},
 		{
 			"id": 2,
-			"title": "Task 2",
-			"description": "Description for task 2",
-			"duration": "2 hrs",
-			"date": "1st of Jan",
-			"time": "12.00"
-		},
-		{
-			"id": 3,
-			"title": "Task 3",
-			"description": "Description for task 3",
-			"duration": "3 hrs",
-			"date": "1st of Jan",
-			"time": "12.00"
+			"make": "BMW",
+			"model": "Series 1",
+			"price": "15000",
+			"fuelType": "Petrol",
+			"colour": "White",
+			"mileage": 85000,
+			"manual": false
 		}
 	]
 }
